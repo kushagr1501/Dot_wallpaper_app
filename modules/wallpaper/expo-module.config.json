@@ -1,0 +1,7 @@
+{
+  "name": "wallpaper",
+  "platforms": ["android"],
+  "android": {
+    "modules": ["com.yeardots.app.wallpaper.WallpaperModule"]
+  }
+}

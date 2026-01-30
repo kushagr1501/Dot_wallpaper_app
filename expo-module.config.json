@@ -1,0 +1,7 @@
+{
+  "android": {
+    "modules": [
+      "com.yeardots.app.wallpaper.WallpaperModule"
+    ]
+  }
+}
